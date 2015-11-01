@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-kwefkshfrfh
+hello from spring controller
 </body>
 </html>
